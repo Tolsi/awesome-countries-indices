@@ -53,6 +53,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Nationmaster](https://www.nationmaster.com/) — Country comparison across thousands of indicators.
 - [Wikipedia: Lists by country](https://en.wikipedia.org/wiki/Lists_of_countries_and_territories) — Aggregated lists.
 - [Indexmundi](https://www.indexmundi.com/) — Charts and rankings across many indicators.
+- [Global Data Tracker](https://globaldatatracker.com/) — Free interactive explorer for historical country statistics across population, economy, health, environment, and more, with indicator-level source attribution.
 - [Open Data Inventory (ODIN)](https://odin.opendatawatch.com/) — National statistical system quality and openness (~180 countries). Metrics: data coverage (breadth of topics), data openness (machine-readability, licensing, bulk download) across 22 categories.
 - [UNCTADStat](https://unctadstat.unctad.org/) — UNCTAD statistical hub with country profiles. Metrics: merchandise trade, FDI flows, maritime transport connectivity (LSCI), commodity dependence, e-commerce readiness, development indicators. Distinct from World Bank/IMF in development-trade focus.
 - [EBRD Transition Report](https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/) — Annual structural reform and macro data for 38 transition economies (Eastern Europe, Central Asia, MENA). Metrics: reform progress scores, green economy transition, Knowledge Economy Index (38 indicators across 4 innovation pillars).
